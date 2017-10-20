@@ -1,0 +1,2 @@
+# UniqueStock
+Stock management system
